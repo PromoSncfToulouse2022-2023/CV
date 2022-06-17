@@ -32,7 +32,7 @@ On continue dans l’optique de l’insertion professionnelle tout en mettant en
 
 ## Livrable.s
     • Adresse du repo github.
-    • Adresse de la page internet.
+    • Adresse de la page internet sur Github pages.
     • Maquette au format papier.
 
 > A envoyer par mail.
@@ -65,7 +65,7 @@ La présentation de la page internet doit être similaire sur Firefox, Chrome et
 Publier votre page sur internet. 
 L’adresse de la page internet doit être accessible (quelque soit le poste informatique utilisé), sans aucune restriction (pas d’espace privé nécessitant un login/mot de passe). 
 Le contenu de la page internet doit correspondre aux fichiers contenus dans le repo github.
-
+La page sera hebergée sur Github pages.
 L’adresse de la page internet est renseigné dans le readme de votre repo github.
 
 ## Conseils
